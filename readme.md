@@ -57,4 +57,5 @@
 - The server and client applications are compatible with both Linux and Windows because we have developed on QT Platform
 - The mobile applications for only Android systems
 - The project video on YouTube: https://youtu.be/woOF_tPZMPY
+- The project website: https://hamzayogurtcuoglu.github.io/cse396grup11//
 - The detailed report added to repository
